@@ -7,7 +7,7 @@ A modern and responsive **Horizontal Image Gallery Slider** built using **HTML, 
 ## 📸 Demo
 
 ### 🌐 Live Website
-👉 https://YOUR_LIVE_LINK_HERE
+👉 https://image-gallery-pearl-nine-48.vercel.app/
 
 ### 📷 Screenshot
 
@@ -62,7 +62,7 @@ Horizontal-Image-Gallery/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/Horizontal-Image-Gallery.git
+git clone https://github.com/bs-bhaskar/image-gallery.git
 ```
 
 2. Open the project folder.
@@ -96,7 +96,7 @@ git clone https://github.com/your-username/Horizontal-Image-Gallery.git
 
 **Bhaskar Yogi**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/bs-bhaskar
 
 ---
 
